@@ -1,0 +1,1 @@
+{"first_name":"fDSFSD","last_name":"wfqwef","middle_name":"DFSASDF","email":"gad@ya.c","password":"$2y$10$.McTzaT6DZ9ui8VAftU2feP8r9pUubqkty\/NhY7sqJ4wrSZgtJg6y","birthdate":"2024-05-13","avatar_path":"users_avatars\/appreciacion.png"}
