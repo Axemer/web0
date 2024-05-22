@@ -1,1 +1,1 @@
-[{"id":2,"name":"MSI 4-way SLI bridge","price":90,"weight":5,"quantity":8,"description":"\u0421\u0438\u043b\u0430 \u0432 \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435, \u0442\u0430\u043a \u043e\u0431\u044a\u0435\u0434\u0435\u043d\u0438 \u0441\u0432\u043e\u0438 \u0441\u0438\u043b\u044b!","image":"Images\/600.png"}]
+[]

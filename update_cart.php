@@ -2,8 +2,8 @@
 if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["cartData"])) {
     $cartData = json_decode($_POST["cartData"], true);
 
-    // Загрузить данные из cart.txt
-    $cartFile = 'cart.txt'; // Путь к файлу корзины
+    
+    $cartFile = 'cart.txt'; 
     $currentCartData = loadCartData($cartFile);
 
     foreach ($cartData as $updatedItem) {
@@ -13,18 +13,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["cartData"])) {
         foreach ($currentCartData as &$cartItem) {
             if ($cartItem["id"] == $productId) {
                 $cartItem["quantity"] = $newQuantity;
-                break; // Прерываем внутренний цикл, чтобы не обновлять более одного товара
+                break; 
             }
         }
     }
-
-    // Обновим данные в cart.txt
     saveCartData($currentCartData, $cartFile);
-
-    // Ответ на успешное обновление
     echo "success";
 } else {
-    // Обработка ошибки или неверного запроса
     echo "Ошибка запроса";
 }
 

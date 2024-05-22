@@ -4,7 +4,6 @@
     <title>Интернет-магазин</title>
 </head>
 <body>
-    <h1>Добро пожаловать в интернет-магазин</h1>
     <ul>
         <li><a href="registration.php">Регистрация</a></li>
         <li><a href="profile.php">Личный кабинет</a></li>

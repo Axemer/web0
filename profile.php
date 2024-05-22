@@ -65,6 +65,4 @@ if (file_exists($userDataFile)) {
 </div>
 
 </body>
-
-
 </html>
