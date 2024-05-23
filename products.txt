@@ -1,8 +1,0 @@
-[
-    {"id": 1, "name": "Nvidia GTX 630", "price": 50, "weight": 2000, "quantity": 210, "description": "Высоко производительно игровое решение для игры в паука", "image": "Images/1337.png"},
-    {"id": 2, "name": "MSI 4-way SLI bridge", "price": 90, "weight": 5, "quantity": 50783, "description": "Сила в единстве, так объедени свои силы!", "image": "Images/600.png"},
-    {"id": 3, "name": "Nvidia Geforce-9800 gx2", "price": 9900, "weight": 4500, "quantity": 2, "description": "Яросное двухчиповое решение для самый отчаенных энтузиастов из 2008", "image": "Images/geforce-9800-gx2.png"},
-    {"id": 4, "name": "Nvidia GTX 680", "price": 1700, "weight": 3100, "quantity": 9, "description": "Улучшеный кремнивый 200 ваттный обогреватель, на 28 нанометровом техпроцессе в турбированном исполнении от EVGA", "image": "Images/gtx680.png"},
-    {"id": 5, "name": "ATI Radeon HD 3870 X2", "price": 1100, "weight": 2000, "quantity": 2, "description": "Безумный двух головый монстр прямиком из 2007!", "image": "Images/hd-3870x2.png"},
-    {"id": 6, "name": "XFX ATI Radeon HD 5970", "price": 900, "weight": 2000, "quantity": 1, "description": "Наиболее высокропроизводительный графический адаптер от компании ATI ", "image": "Images/hd-5970.png"}
-]
